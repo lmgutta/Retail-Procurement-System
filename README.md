@@ -8,7 +8,7 @@ This is a simulated retail inventory and procurement system, built to show how a
 
 It covers the full loop: tracking stock, flagging what needs to be reordered, moving inventory between a warehouse and stores, applying supplier discounts, and running purchase orders through a two-stage approval process. Everything runs inside a simple control panel, with no spreadsheet visible to the end user.
 
-The data here is fictional. But the thinking behind it isn't — it's the same approach I used to cut stockouts by 90% and improve purchasing margins by 5% in a real 10-store operation. This project rebuilds that ideology from the ground up, as a hands-on demonstration of it.
+This approach helped me to cut stockouts by 90% and improve purchasing margins by 5% in a real 10-store operation. This project, albeit with completely fictional data, showcases that ideology from the ground up, as a hands-on demonstration of it. 
 
 Built using Google Sheets, Apps Script, and AI (Claude, ChatGPT and Gemini) as a development partner throughout.
 
