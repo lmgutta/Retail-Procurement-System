@@ -76,7 +76,9 @@ A few things about this system would work differently in an actual production de
 
 ## Results
 
-This approach — automated reorder logic, warehouse-to-store transfers based on real need, and structured purchasing with built-in approval — cut critical stockouts by 90%, from 10 to 1 per store monthly, and improved purchasing margins by 5%, delivering over $40,000 in annual savings, in the real 10-store operation this was built for.
+This approach — automated reorder logic, warehouse-to-store transfers based on real need, and structured purchasing with built-in approval — cut critical stockouts by 90%, from 10 to 1 per store monthly, and improved purchasing margins by 5%, delivering over €40,000 in annual savings, in the real 10-store operation this was built for.
+
+*Savings figure converted to euros for the benefit of a European audience.*
 
 ## This Portfolio Version
 
